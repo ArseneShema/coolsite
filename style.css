@@ -1,0 +1,42 @@
+main {
+    color: antiquewhite;
+}
+
+display-flex {
+    display: flex;
+}
+
+
+body {
+    background-color: #061130;
+
+}
+
+footer {
+    background-color: white;
+    color: lightblue;
+}
+
+.display-flex {
+    display: flex;
+}
+
+grow {
+    flex-grow: 1;
+}
+
+justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+}
+
+.width-50 {
+    width: 50%;
+}
