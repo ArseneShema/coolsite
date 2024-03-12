@@ -2,6 +2,10 @@ main {
     color: antiquewhite;
 }
 
+main>section {
+    padding: 10px;
+}
+
 display-flex {
     display: flex;
 }
